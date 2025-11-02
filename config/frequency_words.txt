@@ -4,6 +4,9 @@
 DeepSeek
 梁文锋
 
+小米汽车
+小米手机
+
 华为
 鸿蒙
 HarmonyOS
