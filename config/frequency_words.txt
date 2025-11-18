@@ -51,6 +51,8 @@ deepmind
 chatgpt
 openai
 sora
+comfyui
+
 
 claude
 Anthropic
